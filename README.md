@@ -2,12 +2,12 @@
 
 **Descrição:**
 
-GRUPOS
+## GRUPOS
 
-**Butantã** 
+### Butantã 
 
-~~~
-GRUPO 1 TEMA: USABILIDADE HTML
+**GRUPO 1 TEMA: USABILIDADE HTML**
+
 | RA        | NOME COMPLETO                |
 |-----------|------------------------------|
 | 821121694 | Bruna Casagrande             |
@@ -18,4 +18,3 @@ GRUPO 1 TEMA: USABILIDADE HTML
 | 821137880 | Paulo Alef Magalhaes Miranda |
 | 821149456 | Samuel Junior                |
 | 821140092 | Stefany Piemontez            |
-~~~
