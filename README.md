@@ -2,6 +2,39 @@
 
 **Descrição:**
 
+[QUESTION DATA TEMPLATE](#QUESTION-DATA-TEMPLATE)
+[GRUPOS](#GRUPOS)
+
+## QUESTION DATA TEMPLATE
+
+~~~json
+{
+    "id": 1,
+    "question": "How to delete a directory in Linux?",
+    "description": "delete folder",
+    "answers": {
+      "answer_a": "ls",
+      "answer_b": "delete",
+      "answer_c": "remove",
+      "answer_d": "rmdir",
+      "answer_e": "",
+    },
+    "correct_answers": {
+      "answer_a_correct": "false",
+      "answer_b_correct": "false",
+      "answer_c_correct": "false",
+      "answer_d_correct": "true",
+      "answer_e_correct": "false",
+    },
+    "explanation": "rmdir deletes an empty directory",
+    "tip": null,
+    "tags": [],
+    "category": "linux",
+    "difficulty": "Easy",
+    "theme": "<tema do grupo>"
+  }
+~~~
+
 ## GRUPOS
 
 ### Butantã 
