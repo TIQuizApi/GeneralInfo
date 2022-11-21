@@ -4,7 +4,8 @@
 
 
 1. [PADRÃO RESPOSTA SERVIÇO](#PADRÃO-RESPOSTA-SERVIÇO)
-2. [GRUPOS](#GRUPOS)
+2. [PROJETO PADRÃO](https://github.com/TIQuizApi/projetoPadrao)
+3. [GRUPOS](#GRUPOS)
 
 ## PADRÃO RESPOSTA SERVIÇO
 
