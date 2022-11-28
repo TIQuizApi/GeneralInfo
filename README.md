@@ -58,6 +58,15 @@
 
 **GRUPO 2  TEMA: USABILIDADE JAVASCRIPT** [link](https://github.com/TIQuizApi/GROUP02)
 
+| RA        | NOME COMPLETO                |
+|-----------|------------------------------|
+| 52220442 | Victor Hugo Bonano Marinho de Souza |
+| 52220104 | Nycollas Luiz dos Santos |
+| 52124621 | Marcus Vinícius Amigo Gimenes |
+| 52116294 | Wian Victor lima Martins dos santos |
+| 52124652 | Caique Venancio Paschoalini |
+
+
 **GRUPO 3 TEMA: USABILIDADE CSS** [link](https://github.com/TIQuizApi/GROUP03)
 
 | RA        | NOME COMPLETO                        |
