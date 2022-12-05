@@ -79,5 +79,20 @@
 
 **GRUPO 4 TEMA: SDM REST** [link](https://github.com/TIQuizApi/GROUP04)
 
+| RA        | NOME COMPLETO                        |
+|-----------|--------------------------------------|
+| 52123669 | Emerson Melo de Lima |
+| 520212604 | CARLA CRISTINA FARIA DE ALMEIDA |
+| 52117046 | Fabricio Santos Fagundes |
+
 **GRUPO 5 TEMA: SDM NODEJS** [link](https://github.com/TIQuizApi/GROUP05)
+
+**NÃO INDICADO***
+
+**GRUPO 6 TEMA: SDM NODEJS** [link](https://github.com/TIQuizApi/GROUP06)
+
+| RA        | NOME COMPLETO                        |
+|-----------|--------------------------------------|
+| 52120114 | Gustavo Reis Borges Santos |
+
 
