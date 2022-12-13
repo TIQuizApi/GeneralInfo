@@ -82,12 +82,15 @@
 | RA        | NOME COMPLETO                        |
 |-----------|--------------------------------------|
 | 52123669 | Emerson Melo de Lima |
-| 520212604 | CARLA CRISTINA FARIA DE ALMEIDA |
+| 520212604 | Carla Cristina Faria de Almeida |
 | 52117046 | Fabricio Santos Fagundes |
+| 52213750 | João Pedro de Paula Barros |
 
 **GRUPO 5 TEMA: SDM NODEJS** [link](https://github.com/TIQuizApi/GROUP05)
 
-**NÃO INDICADO***
+| RA        | NOME COMPLETO                        |
+|-----------|--------------------------------------|
+| 52115846  | Gabriel Brandão de Oliveira Sales |
 
 **GRUPO 6 TEMA: SDM NODEJS** [link](https://github.com/TIQuizApi/GROUP06)
 
