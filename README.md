@@ -92,7 +92,7 @@
 |-----------|--------------------------------------|
 | 52115846  | Gabriel Brandão de Oliveira Sales |
 
-**GRUPO 6 TEMA: SDM NODEJS** [link](https://github.com/TIQuizApi/GROUPO06)
+**GRUPO 6 TEMA: SDM NODEJS** [link](https://github.com/TIQuizApi/GRUPO06) 
 
 | RA        | NOME COMPLETO                        |
 |-----------|--------------------------------------|
